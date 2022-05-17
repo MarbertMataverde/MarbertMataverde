@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mar Bert John Mataverde</h1>
 <h3 align="center">A passionate flutter developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qm05mwmg3u9oh4wsjoe4ja9i3hi3gu5ihpweh0fh&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marbertmataverde&label=Profile%20views&color=0e75b6&style=flat" alt="marbertmataverde" /> </p>
 
