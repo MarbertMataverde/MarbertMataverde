@@ -1,6 +1,3 @@
-<h2 align="left">Hey👋! I'm Mar Bert Mataverde and I'm a Flutter Developer.</h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&username=marbertmataverde" height="150" alt="stats graph"  />
@@ -9,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="60" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="60" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="60" alt="css3 logo"  />
@@ -22,7 +19,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/c/MarBertJohnMataverde" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -41,6 +38,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/marbertmataverde/marbertmataverde/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/MarbertMataverde/MarbertMataverde/blob/main/assets/github-user-contribution.svg" alt="Snake animation" />
 
 ###
