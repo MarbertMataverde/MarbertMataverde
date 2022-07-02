@@ -1,4 +1,4 @@
-<img src="assets/gif/header.gif" alt="Hey, I'm Mar Bert Mataverde" style="height:150px;">
+<img src="assets/gif/header.gif" alt="Hey, I'm Mar Bert Mataverde">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="60" alt="javascript logo"  />
