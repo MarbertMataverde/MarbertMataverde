@@ -38,6 +38,4 @@
 
 <br clear="both">
 
-<img href="https://github.com/MarbertMataverde/MarbertMataverde/blob/main/assets/github-user-contribution.svg" alt="Snake animation" />
-
 ###
