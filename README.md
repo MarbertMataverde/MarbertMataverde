@@ -14,6 +14,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/MarbertMataverde/count.svg?"  />
 </div>
-
-###
-Profile Readme Generator
