@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="60" alt="firebase logo"  />
 </div>
 
-## Contact me
+<img src="assets/gif/contact_me_icon.gif" height="5" width="5"> ##Contact me
 <div align="center">
   <a href="https://www.youtube.com/c/MarBertJohnMataverde" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
