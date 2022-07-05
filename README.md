@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="60" alt="firebase logo"  />
 </div>
 
-## Contact me
+## 🌐 My SocMed
 
 <div align="center">
   <a href="https://www.youtube.com/c/MarBertJohnMataverde" target="_blank">
